@@ -3,7 +3,7 @@
 
 1_CMC_Data.ipynb ---> fetch data from COINMARKETCAP
 
-2_pso_optimization.ipynb ---> optimazation algoritm for choosing portfoi's currency
+2_pso_optimization.ipynb ---> optimazation algorithm for choosing portfoi's currency
 
 3_ml_.ipynb ---> ML technical forcast
 
